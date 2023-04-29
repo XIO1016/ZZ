@@ -29,7 +29,7 @@
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-04-29 at 17 05 44](https://user-images.githubusercontent.com/100416968/235292046-db186313-e668-43de-8e14-0d43104b9963.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-04-29 at 17 05 55](https://user-images.githubusercontent.com/100416968/235292054-464e9d18-bd45-4f24-bbe7-5b8c0b00f0f6.png)
-
+--|--|
 
 맡은 업무: App & Backend Developer
 사용 스택: 1. App: Flutter
